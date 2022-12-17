@@ -1,0 +1,19 @@
+Beautify by HookyQR
+autoFileName by JerryHong
+Material Icon Theme By Philipp Kief
+Bracket Pair Colorizer by CoenraadS
+Color Picker by anseki
+DotENV by mikestead
+Prettier - Code formatter by Prettier
+Sass by Syler
+Thunder Client by Ranga Vadhineni
+Angular Language Service by angular 
+Angular Snippets by john papa
+Angular Material v10 snippets by Hardik Pithva
+C# by Microsoft
+C# Extensions by JosKreativ
+Code Runner by Jun Han
+MongoDB by VS Code by MongoDB
+MySQL by cweijan
+Docker by Microsoft
+One Dark Pro by binaryify
